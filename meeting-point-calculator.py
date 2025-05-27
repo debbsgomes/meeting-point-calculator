@@ -45,7 +45,7 @@ def find_meeting_point(locations, distances):
 def main():
     # Known locations (latitude, longitude)
     # You would need to replace these with actual coordinates
-    meeting_location = (-00.0000, -00.000)  # Center of Joaquim Távora[1][3]
+    meeting_location = (-00.0000, -00.000) 
     
     # Example locations (these need to be replaced with actual coordinates)
     locations = [
